@@ -1,46 +1,38 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isaac-diniz.isaac-diniz" />
 
-# Olá, eu sou Isaac! 👨🏻‍💻
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Isaac+Diniz!;" />
+</h1>
 
-<p align="center">Estudante de Informática 2/3 <br><br> Estudando backend em <strong>java e spring</strong> além de <strong>arquitetura e manutenção de computadores e redes</strong>.</p>&nbsp;
+<h3 align="center">Studying systems development in Brazil</h3>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=isaac-diniz&theme=radical&mode=weekly" />
+<br/>
+
+<div align="center">
+ 
+ 🔭 I'm currently studying for the **Olympics**
+ 
+ 🌱 I'm currently learning **C++** and **OOP** concepts
+ 
+⚡ I also work as a **social media designer**
+
+💬 Ask me about **[here](https://github.com/isaac-diniz/isaac-diniz/issues)**
+
  </div>
  
- &nbsp;
- &nbsp;
+<div align="center"> 
+  <a href="mailto:dinizisaac266@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,spring" /><br>
+</div>
 
-
-## Linguagens e plataformas que utilizo:
-
-#### Estudando atualmente:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Plataformas:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contato:
-
-<div> 
-<a href="https://www.instagram.com/dnzisac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.dinizisaac266z@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<br/>
