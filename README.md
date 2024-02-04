@@ -24,6 +24,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,spring,css,html,javascript" /><br>
 </div>
 <br/>
