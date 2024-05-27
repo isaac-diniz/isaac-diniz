@@ -28,7 +28,7 @@
 <h2 align="center">💻 Courses 📚</h2>
 <br/>
 <div align="center">
-    <a href="[https://www.credly.com/badges/6fc0f7e6-c7cc-4690-bc7b-0d0698a4e9a7/public_url](https://www.credly.com/badges/c15763cb-52db-4342-bee0-3f3c698378f3/public_url)">
+    <a href="https://www.credly.com/badges/6fc0f7e6-c7cc-4690-bc7b-0d0698a4e9a7/public_url">
         <img src="https://images.credly.com/size/128x128/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="IT">
     </a>
     <a href="[https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url](https://www.credly.com/badges/d807e74f-7a3f-4d27-a281-32372362777b/public_url)">
