@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
- 🔭 I'm currently studying for the **Olympics**
+ 🔭 I'm currently studying for **military competitions**
 
  🌱 I'm currently learning **C++** and **OOP** concepts
  
@@ -22,8 +22,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,spring,css,html,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,cpp,java,spring" /><br>
 </div>
 <h2 align="center">💻 Courses 📚</h2>
 <br/>
